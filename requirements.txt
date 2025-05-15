@@ -1,0 +1,7 @@
+fastapi==0.110.1
+uvicorn[standard]==0.29.0
+textblob==0.17.1
+pydantic==2.7.1
+pytest==8.2.1
+pre-commit==3.7.0
+mkdocs==1.6.0

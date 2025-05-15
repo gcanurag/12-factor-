@@ -1,0 +1,5 @@
+Set-ExecutionPolicy RemoteSigned -Scope Process
+renv\Scripts\activate
+
+
+uvicorn app:app --reload
